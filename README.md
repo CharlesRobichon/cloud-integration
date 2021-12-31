@@ -1,3 +1,3 @@
-# cloud integration
+# cloud integration Project
 
-	Project about Books and Prices
+This project is a collection of Books with Prices attributed to them.
